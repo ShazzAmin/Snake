@@ -1,0 +1,38 @@
+body{
+	background-image: url('../img/back.png');
+	font-family: monospace, "Lucida Console", serif;
+}
+
+.heading{
+	color: #000000;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.mainContent{
+	text-align: center;
+	width: 60%;
+	margin: auto auto;
+	margin-top: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: white;
+	border-radius: 10px 10px 10px 10px;
+}
+
+.footer{
+	text-align: center;
+	font-size: 18px;
+	color: #FFFFFF;
+}
+
+noscript{
+	background-color: red;
+	padding: 10px;
+	border-radius: 10px 10px 10px 10px;
+	margin-bottom: 10px;
+}
+
+#snakeScreen{
+	border: 1px solid #000000;
+}
