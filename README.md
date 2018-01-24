@@ -5,7 +5,7 @@ Snake
 A simple Snake game.
 
 ### Run
-###### Pre-requisites:
+###### Prerequisites:
 * A modern web browser
 
 Open `index.html` in a modern web browser.
