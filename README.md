@@ -2,7 +2,7 @@ Snake
 =====
 *by Shazz Amin*
 
-A simple Snake game.
+The classic Snake game adapted for the web.
 
 ### Run
 ###### Prerequisites:
