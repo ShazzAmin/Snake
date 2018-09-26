@@ -1,5 +1,6 @@
 Snake
 =====
+
 *by Shazz Amin*
 
 The classic Snake game adapted for the web.
